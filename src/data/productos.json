@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "title": "Polera a rayas",
+    "description": "Polera 50% algodón 50% polyester",
+    "price": 9.99,
+    "thumbnail": "img1.jpg",
+    "code": "Polera01",
+    "stock": 27
+  }
+]

@@ -1,0 +1,16 @@
+{
+  "name": "primera-pre-entrega-durante",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev":"nodemon ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type":"module",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
